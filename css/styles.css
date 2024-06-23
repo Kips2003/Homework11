@@ -849,9 +849,8 @@ html body{
 
     /* section five responsive 410px */
 
-
+    
     .section-five-title{
-        width: 92%;
         align-items: center;
     }
     .section-five-title h1{
